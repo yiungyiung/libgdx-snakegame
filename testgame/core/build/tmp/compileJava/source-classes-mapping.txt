@@ -1,0 +1,2 @@
+com/testgame/game/TestGame.java
+ com.testgame.game.TestGame

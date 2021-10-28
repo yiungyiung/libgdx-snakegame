@@ -1,0 +1,2 @@
+com/testgame/game/desktop/DesktopLauncher.java
+ com.testgame.game.desktop.DesktopLauncher
